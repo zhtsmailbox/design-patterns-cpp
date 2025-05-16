@@ -1,4 +1,4 @@
-FOLK at 2025.5.16 from Bilibili commit and github
+FORK at 2025.5.16 from Bilibili commit and github
 ## 面向对象设计模式（C++）
 
 在线文档：https://design-patterns-cplusplus.readthedocs.io/
